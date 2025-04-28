@@ -1,0 +1,24 @@
+{
+    "private_key": "",
+    "initial_capital": 200.0,
+    "target_value": 10000.0,
+    "days_remaining": 10,
+    "max_concurrent_trades": 2,
+    "trading_mode": "Semi-Automated",
+    "max_daily_loss": 20.0,
+    "max_drawdown": 30.0,
+    "max_risk_per_trade": 15.0,
+    "max_portfolio_risk": 50.0,
+    "default_stop_loss": 15.0,
+    "default_take_profit": 50.0,
+    "wallets": [
+        {
+            "name": "Whale 1",
+            "address": "5ZWj7a1f8tWkjBESHKgrLmZhGh7yBR8Cmjw6aQGhRTMQ"
+        },
+        {
+            "name": "Whale 2",
+            "address": "7NsngNMtXJNdHgeK4znQDZ5PJ19ykVvQvEF7BT5KFjMv"
+        }
+    ]
+}
